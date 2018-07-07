@@ -1,4 +1,4 @@
-# redis
+# redis 1.0
 
 #### Table of Contents
 
